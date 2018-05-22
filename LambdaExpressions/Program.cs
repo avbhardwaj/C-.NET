@@ -22,7 +22,7 @@ namespace LambdaExpressions
 			Console.WriteLine("USING DEFINED FUNTION" + calcSquare(5));
 			Console.WriteLine("USING FUNC REF TO A FUNCTION: " + cs(10));
 			Console.WriteLine("USING FUNC REF LAMBDA EXPRESSION: " + cs2(20));
-			
+				
 			//Finding Books Based on Price Value using Lambda Expressions
 
 			var books = new BookRepository().GetBooks();
