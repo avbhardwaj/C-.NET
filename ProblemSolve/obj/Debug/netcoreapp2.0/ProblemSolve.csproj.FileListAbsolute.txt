@@ -9,3 +9,14 @@ C:\Users\avbha\source\repos\ProblemSolve\ProblemSolve\obj\Debug\netcoreapp2.0\Pr
 C:\Users\avbha\source\repos\ProblemSolve\ProblemSolve\obj\Debug\netcoreapp2.0\ProblemSolve.AssemblyInfo.cs
 C:\Users\avbha\source\repos\ProblemSolve\ProblemSolve\obj\Debug\netcoreapp2.0\ProblemSolve.dll
 C:\Users\avbha\source\repos\ProblemSolve\ProblemSolve\obj\Debug\netcoreapp2.0\ProblemSolve.pdb
+C:\Users\avbha\source\repos\C-.NET\ProblemSolve\bin\Debug\netcoreapp2.0\ProblemSolve.deps.json
+C:\Users\avbha\source\repos\C-.NET\ProblemSolve\bin\Debug\netcoreapp2.0\ProblemSolve.runtimeconfig.json
+C:\Users\avbha\source\repos\C-.NET\ProblemSolve\bin\Debug\netcoreapp2.0\ProblemSolve.runtimeconfig.dev.json
+C:\Users\avbha\source\repos\C-.NET\ProblemSolve\bin\Debug\netcoreapp2.0\ProblemSolve.dll
+C:\Users\avbha\source\repos\C-.NET\ProblemSolve\bin\Debug\netcoreapp2.0\ProblemSolve.pdb
+C:\Users\avbha\source\repos\C-.NET\ProblemSolve\obj\Debug\netcoreapp2.0\ProblemSolve.csprojAssemblyReference.cache
+C:\Users\avbha\source\repos\C-.NET\ProblemSolve\obj\Debug\netcoreapp2.0\ProblemSolve.csproj.CoreCompileInputs.cache
+C:\Users\avbha\source\repos\C-.NET\ProblemSolve\obj\Debug\netcoreapp2.0\ProblemSolve.AssemblyInfoInputs.cache
+C:\Users\avbha\source\repos\C-.NET\ProblemSolve\obj\Debug\netcoreapp2.0\ProblemSolve.AssemblyInfo.cs
+C:\Users\avbha\source\repos\C-.NET\ProblemSolve\obj\Debug\netcoreapp2.0\ProblemSolve.dll
+C:\Users\avbha\source\repos\C-.NET\ProblemSolve\obj\Debug\netcoreapp2.0\ProblemSolve.pdb
