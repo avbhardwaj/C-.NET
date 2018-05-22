@@ -11,16 +11,27 @@ namespace ProblemSolve
 				return false;
 			}
 
-			char[] c1 = s1.ToCharArray();
-			char[] c2 = s2.ToCharArray();
+			char[] c1 = s1.ToLower().ToCharArray();
+			char[] c2 = s2.ToLower().ToCharArray();
+
 
 			Array.Sort(c1);
 			Array.Sort(c2);
 
+			
 			String temp1 = new String(c1);
 			String temp2 = new String(c2);
 
-			if (temp1 == temp2)
+			c1 = s1.ToUpper().ToCharArray();
+			c2 = s2.ToUpper().ToCharArray();
+
+			Array.Sort(c1);
+			Array.Sort(c2);
+
+			String temp3 = new String(c1);
+			String temp4 = new String(c2);
+
+			if ((temp1 == temp2) && (temp3==temp4))
 				return true;
 			else
 				return false;
@@ -37,13 +48,14 @@ namespace ProblemSolve
 			var watch = System.Diagnostics.Stopwatch.StartNew();
 			bool result = IsAnagram(s1, s2);
 
-			var elapsedMs = watch.ElapsedMilliseconds;
+			var elapsedSeconds = (double)watch.Elapsed.Seconds;
 			if (result == true)
 				Console.WriteLine("Strings are Anagram");
 			else
 				Console.WriteLine("Strings are not Anagrams");
 			watch.Stop();
-			Console.WriteLine("Prolem Computed in : " + elapsedMs + " milliseconds");
+			//var sec
+			Console.WriteLine("Prolem Computed in : " + elapsedSeconds + " seconds");
 
 			Console.ReadLine();
 		}
