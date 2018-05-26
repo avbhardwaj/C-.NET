@@ -4,3 +4,10 @@ C:\Users\avbha\source\repos\ProblemSolve\DictionaryImplementation\bin\Debug\Dict
 C:\Users\avbha\source\repos\ProblemSolve\DictionaryImplementation\obj\Debug\DictionaryImplementation.csproj.CoreCompileInputs.cache
 C:\Users\avbha\source\repos\ProblemSolve\DictionaryImplementation\obj\Debug\DictionaryImplementation.exe
 C:\Users\avbha\source\repos\ProblemSolve\DictionaryImplementation\obj\Debug\DictionaryImplementation.pdb
+C:\Users\avbha\source\repos\C-.NET\DictionaryImplementation\bin\Debug\DictionaryImplementation.exe.config
+C:\Users\avbha\source\repos\C-.NET\DictionaryImplementation\bin\Debug\DictionaryImplementation.exe
+C:\Users\avbha\source\repos\C-.NET\DictionaryImplementation\bin\Debug\DictionaryImplementation.pdb
+C:\Users\avbha\source\repos\C-.NET\DictionaryImplementation\obj\Debug\DictionaryImplementation.csprojAssemblyReference.cache
+C:\Users\avbha\source\repos\C-.NET\DictionaryImplementation\obj\Debug\DictionaryImplementation.csproj.CoreCompileInputs.cache
+C:\Users\avbha\source\repos\C-.NET\DictionaryImplementation\obj\Debug\DictionaryImplementation.exe
+C:\Users\avbha\source\repos\C-.NET\DictionaryImplementation\obj\Debug\DictionaryImplementation.pdb

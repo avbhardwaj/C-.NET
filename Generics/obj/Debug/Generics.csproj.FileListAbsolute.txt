@@ -8,7 +8,6 @@ C:\Users\avbha\source\repos\ProblemSolve\Generics\obj\Debug\Generics.pdb
 C:\Users\avbha\source\repos\C-.NET\Generics\bin\Debug\Generics.exe.config
 C:\Users\avbha\source\repos\C-.NET\Generics\bin\Debug\Generics.exe
 C:\Users\avbha\source\repos\C-.NET\Generics\bin\Debug\Generics.pdb
-C:\Users\avbha\source\repos\C-.NET\Generics\obj\Debug\Generics.csprojAssemblyReference.cache
 C:\Users\avbha\source\repos\C-.NET\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
 C:\Users\avbha\source\repos\C-.NET\Generics\obj\Debug\Generics.exe
 C:\Users\avbha\source\repos\C-.NET\Generics\obj\Debug\Generics.pdb

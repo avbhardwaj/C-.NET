@@ -1,0 +1,7 @@
+C:\Users\avbha\source\repos\C-.NET\PS2\bin\Debug\PS2.exe.config
+C:\Users\avbha\source\repos\C-.NET\PS2\bin\Debug\PS2.exe
+C:\Users\avbha\source\repos\C-.NET\PS2\bin\Debug\PS2.pdb
+C:\Users\avbha\source\repos\C-.NET\PS2\obj\Debug\PS2.csprojAssemblyReference.cache
+C:\Users\avbha\source\repos\C-.NET\PS2\obj\Debug\PS2.csproj.CoreCompileInputs.cache
+C:\Users\avbha\source\repos\C-.NET\PS2\obj\Debug\PS2.exe
+C:\Users\avbha\source\repos\C-.NET\PS2\obj\Debug\PS2.pdb
